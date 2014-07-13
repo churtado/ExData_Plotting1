@@ -1,3 +1,20 @@
+## How to run the code, and a small warning
+First, make sure all the R scripts are in your working directory. Then make sure that the data file is unzipped (decompressed) into the same working directory as the R scripts. It won't run otherwise!<b>
+
+Once that's done, just execute every script like so:<b>
+
+<ol>
+<li>plot1("household_power_consumption.txt")</li><b>
+<li>plot2("household_power_consumption.txt")</li><b>
+<li>plot3("household_power_consumption.txt")</li><b>
+<li>plot4("household_power_consumption.txt")</li><b>
+</ol>
+<b>
+Also, I'm working in a system where the base language is German, and I'm in a German speaking country, so in the time series plots you won't see "Thu" "Fri" and "Sat", but "Don", "Fre", and "Sam". I'm still trying to get that fixed, I do apologize. But other than that detail  the plots are identical. Please don't discount grade based on that. If you need to take this into consideration I plead that you run the code yourself and see that the days of the week will show up in an English language (depending on your system). I will try to get that fixed before due time.
+
+<b><b>
+Also, I decided not to use a transparent background because it was not explicitly specified anywhere and it makes examining it a bit difficult sometimes.
+
 ## Introduction
 
 This assignment uses data from
