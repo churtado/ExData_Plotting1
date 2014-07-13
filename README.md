@@ -11,7 +11,7 @@ Once that's done, just execute every script like so:<b>
 </ol>
 <b>
 <b>
-Also, I decided not to use a transparent background because it was not explicitly specified anywhere and it makes examining it a bit difficult sometimes.
+Also, I decided not to use a transparent background because it was not explicitly specified anywhere and it makes examining it a bit difficult sometimes. These plots should exactly as the ones in the submission page.
 
 ## Introduction
 
