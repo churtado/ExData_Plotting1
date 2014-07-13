@@ -1,5 +1,5 @@
 ## How to run the code, and a small warning
-First, make sure all the R scripts are in your working directory. Then make sure that the data file is unzipped (decompressed) into the same working directory as the R scripts. It won't run otherwise!<b>
+First, make sure all the R scripts are in your working directory. Then make sure that the data file is unzipped (decompressed) into the same working directory as the R scripts. Remember to set your working directory in R with the setwd() command. It has to be set to that directory that has the data and the scripts. It won't run otherwise!<b>
 
 Once that's done, just execute every script like so:<b>
 
